@@ -1,7 +1,7 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 
-const baseURL = " http://localhost:3000/users"
+const baseURL = " https://userdata-disp-on-cards.herokuapp.com/users"
 
 function Getusers() {
 
