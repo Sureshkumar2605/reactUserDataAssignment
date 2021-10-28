@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id":1,
+            "imageUrl": "https://avatars.dicebear.com/v2/avataaars/Bret.svg?options[mood][]=happy",
+            "name":"Suresh Kumar",
+            "email":"suresh@gmail.com",
+            "phone":"4596741564",
+            "company":"Ojas",
+            "website":"ojasit.com",
+            "address":"Kulas Light, Apt. 556, Gwenborough, 92998-3874"
+        },
+        {
+            "id":2,
+            "imageUrl": "https://avatars.dicebear.com/v2/avataaars/Kamren.svg?options[mood][]=happy",
+            "name":"Sravan",
+            "email":"sravan@gmail.com",
+            "phone":"8979746548",
+            "company":"Ojas",
+            "website":"ojasit.com",
+            "address":"Victor Plains, Suite 879, Wisokyburgh, 90566-7771"
+        },
+        {
+            "id":3,
+            "imageUrl": "https://avatars.dicebear.com/v2/avataaars/Leopoldo_Corkery.svg?options[mood][]=happy",
+            "name":"Mouli",
+            "email":"mouli@gmail.com",
+            "phone":"56498879489",
+            "company":"Ojas",
+            "website":"ojasit.com",
+            "address":" Douglas Extension, Suite 847, McKenziehaven, 59590-4157"
+        }
+    ]
+}
